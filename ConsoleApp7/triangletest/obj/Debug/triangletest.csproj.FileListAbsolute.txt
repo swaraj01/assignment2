@@ -1,0 +1,2 @@
+C:\Users\HACKER\source\repos\ConsoleApp7\triangletest\obj\Debug\triangletest.csprojAssemblyReference.cache
+C:\Users\HACKER\source\repos\ConsoleApp7\triangletest\obj\Debug\triangletest.csproj.CoreCompileInputs.cache
