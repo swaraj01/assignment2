@@ -16,7 +16,7 @@ namespace ConsoleApp7
 
             while (isValid == false)
             {
-                Console.WriteLine($"Please enter the {triangleside} of your rectangle:");
+                Console.WriteLine($"Please enter the {triangleside} of your triangle:");
                 string userInput = Console.ReadLine();
                 Console.WriteLine();
 
