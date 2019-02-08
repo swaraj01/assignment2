@@ -73,7 +73,7 @@ namespace ConsoleApp7
                         side3 = ValidateUserInput(" side3");
 
 
-                        Console.WriteLine($"Your triangle sides is {side1}  {side2} {side3} \n");
+                        Console.WriteLine($"Your triangle sides is {side1} {side2} {side3} \n");
                         Console.WriteLine("Your triangle is {0} \n", Trianglesolver.analyze(side1, side2, side3));
                         Console.ReadLine();
                     }
