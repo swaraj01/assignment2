@@ -1,2 +1,12 @@
+C:\Users\HACKER\source\repos\ConsoleApp7\triangletest\bin\Debug\triangletest.dll
+C:\Users\HACKER\source\repos\ConsoleApp7\triangletest\bin\Debug\triangletest.pdb
+C:\Users\HACKER\source\repos\ConsoleApp7\triangletest\bin\Debug\ConsoleApp7.exe
+C:\Users\HACKER\source\repos\ConsoleApp7\triangletest\bin\Debug\nunit.framework.dll
+C:\Users\HACKER\source\repos\ConsoleApp7\triangletest\bin\Debug\ConsoleApp7.pdb
+C:\Users\HACKER\source\repos\ConsoleApp7\triangletest\bin\Debug\ConsoleApp7.exe.config
+C:\Users\HACKER\source\repos\ConsoleApp7\triangletest\bin\Debug\nunit.framework.xml
 C:\Users\HACKER\source\repos\ConsoleApp7\triangletest\obj\Debug\triangletest.csprojAssemblyReference.cache
 C:\Users\HACKER\source\repos\ConsoleApp7\triangletest\obj\Debug\triangletest.csproj.CoreCompileInputs.cache
+C:\Users\HACKER\source\repos\ConsoleApp7\triangletest\obj\Debug\triangletest.csproj.CopyComplete
+C:\Users\HACKER\source\repos\ConsoleApp7\triangletest\obj\Debug\triangletest.dll
+C:\Users\HACKER\source\repos\ConsoleApp7\triangletest\obj\Debug\triangletest.pdb
